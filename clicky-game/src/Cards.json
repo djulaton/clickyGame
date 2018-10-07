@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Starry Night",
+      "image": "https://www.vincentvangogh.org/images/paintings/the-starry-night.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cafe Terrace at Night",
+      "image":  "https://www.vincentvangogh.org/images/paintings/cafe-terrace-at-night.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Self Portrait with Strawhat",
+      "image": "https://www.vincentvangogh.org/images/paintings/self-portrait-with-straw-hat.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vase with Daisies and Poppies",
+      "image": "https://www.vincentvangogh.org/images/paintings/vase-with-daisies-and-poppies.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Head of a Woman",
+      "image": "https://www.pablopicasso.org/images/paintings/head-of-a-woman.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Asleep",
+      "image": "https://www.pablopicasso.org/images/paintings/asleep.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Kitchen",
+      "image": "https://www.pablopicasso.org/images/paintings/the-kitchen.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Enigma of My Desire",
+      "image": "https://www.dalipaintings.com/images/paintings/the-enigma-of-my-desire.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Invisible Afghan with the Apparition",
+      "image": "https://www.dalipaintings.com/images/paintings/invisible-afghan-with-the-apparition.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Persistence of Memory",
+      "image": "https://www.dalipaintings.com/images/paintings/the-persistence-of-memory.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Water Lilies, Harmony in Blue",
+      "image": "https://www.claude-monet.com/images/paintings/water-lilies-harmony-in-blue.jpg"
+    },
+    {
+      "id": 12,
+      "name": "La Japonaise",
+      "image": "https://www.claude-monet.com/images/paintings/la-japonaise.jpg"
+    }
+  ]
+  
